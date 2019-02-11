@@ -1,8 +1,6 @@
 Pure CSS Layout Examples
 ========================
 
-https://thacischott.github.io/portfolio.github.io/
-
 Layout examples using [Pure CSS][pure] compiled from the [pure-site][] project.
 
 [pure]: http://purecss.io/
