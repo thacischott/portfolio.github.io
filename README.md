@@ -1,1 +1,1 @@
-https://thacischott.github.io/portfolio.github.io
+https://thacischott.github.io/portfolio.github.io/
